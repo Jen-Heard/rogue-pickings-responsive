@@ -68,7 +68,7 @@ header h1 span {
 }
 
 header nav {
-	padding: 46px 0;
+	padding: 20px 0;
 }
 
 header nav ul {
@@ -121,7 +121,6 @@ header nav ul li a {
 .section-two,
 .section-three {
 	box-sizing: border-box;
-	padding: 0 40px;
 }
 
 .section-one {
@@ -158,7 +157,6 @@ header nav ul li a {
 footer {
 	display: flex;
 	justify-content: center;
-	text-align: center;
 	margin-top: 8px;
 }
 
